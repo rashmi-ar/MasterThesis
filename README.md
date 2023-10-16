@@ -20,3 +20,6 @@ User Stress Levels Detection by Physiological Sensing and Deep Learning
 * A prototype application has been developed that effectively displays dynamic stress fluctuations by utilizing the insights gained from prediction outcomes upon user-specific data.
 * The application includes a stress meter, which enables users to visually understand their stress levels.
 * It also delivers personalized alert messages to individuals based on their stress levels to ensure timely support and intervention.
+
+The experimental design and implementation can be found on [Stress_Detection_Experiment](https://github.com/rashmi-ar/stress_detection_experiment) and [Stress Detection Finetuning](https://github.com/rashmi-ar/stress_detection_finetuning)
+
